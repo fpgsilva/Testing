@@ -1,6 +1,6 @@
 {
-  "homepage": "http://fpgsilva.github.io/Testing",
-  "name": "testing",
+  "homepage": "http://fpgsilva.github.io/g31-p4",
+  "name": "g31-p4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
